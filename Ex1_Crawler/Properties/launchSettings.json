@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ex1_Crawler": {
+      "commandName": "Project",
+      "commandLineArgs": "https://en.wikipedia.org/wiki/Email_address"
+    }
+  }
+}
