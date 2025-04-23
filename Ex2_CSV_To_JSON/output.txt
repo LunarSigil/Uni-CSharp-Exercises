@@ -1,0 +1,3435 @@
+{
+  "createdAt": "2025-04-23T16:27:37.1590722+02:00",
+  "author": "LunarSigil",
+  "students": [
+    {
+      "firstName": "Paweł",
+      "lastName": "Nowak1",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 4 sem",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka doktoranckie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 459,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "1@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kaja",
+      "lastName": "Jankowski29",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4816,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "29@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Justyna",
+      "lastName": "Kowalski30",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4749,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "30@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Nowak31",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4432,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "31@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kamil",
+      "lastName": "Brzęczyszczykiewicz32",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4757,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "32@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Marta",
+      "lastName": "Maciejewski33",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4655,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "33@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Szymon",
+      "lastName": "Jankowski34",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4398,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "34@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Joanna",
+      "lastName": "Brzęczyszczykiewicz37",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4799,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "37@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Irena",
+      "lastName": "Maciejewski38",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4626,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "38@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adam",
+      "lastName": "Jankowski39",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4446,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "39@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kacper",
+      "lastName": "Kowalski40",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4396,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "40@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Paweł",
+      "lastName": "Nowak41",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4902,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "41@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Aleksandra",
+      "lastName": "Brzęczyszczykiewicz42",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów zaoczne",
+          "mode": "Zaoczne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów zaoczne 6 sem.",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4434,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "42@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Katarzyna",
+      "lastName": "Maciejewski43",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4517,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "43@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Grzegorz",
+      "lastName": "Jankowski44",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4705,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "44@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Kowalski45",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4661,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "45@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jan",
+      "lastName": "Nowak46",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów zaoczne 6 sem.",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4842,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "46@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jakub",
+      "lastName": "Brzęczyszczykiewicz47",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4709,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "47@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Iga",
+      "lastName": "Maciejewski48",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4792,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "48@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jakub",
+      "lastName": "Jankowski49",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4789,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "49@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Kowalski50",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4708,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "50@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Artur",
+      "lastName": "Nowak51",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4404,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "51@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Sabina",
+      "lastName": "Brzęczyszczykiewicz52",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4513,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "52@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Łukasz",
+      "lastName": "Maciejewski53",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4442,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "53@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Marcin",
+      "lastName": "Jankowski54",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4732,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "54@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Rafał",
+      "lastName": "Kowalski55",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4506,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "55@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jan",
+      "lastName": "Nowak56",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4649,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "56@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jakub",
+      "lastName": "Brzęczyszczykiewicz57",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4755,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "57@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Julia",
+      "lastName": "Maciejewski58",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4890,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "58@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Karol",
+      "lastName": "Jankowski59",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4594,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "59@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Katarzyna",
+      "lastName": "Nowak61",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4925,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "61@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Marzena",
+      "lastName": "Brzęczyszczykiewicz62",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4748,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "62@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Filip",
+      "lastName": "Maciejewski63",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4720,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "63@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Karolina",
+      "lastName": "Jankowski64",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4423,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "64@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Mateusz",
+      "lastName": "Kowalski65",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4299,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "65@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Magdalena",
+      "lastName": "Nowak66",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4629,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "66@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Igor",
+      "lastName": "Brzęczyszczykiewicz67",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4889,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "67@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Bogumiła",
+      "lastName": "Maciejewski68",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4831,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "68@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Paweł",
+      "lastName": "Jankowski69",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4478,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "69@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Marta",
+      "lastName": "Kowalski70",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4718,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "70@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kamil",
+      "lastName": "Nowak71",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4741,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "71@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Beata",
+      "lastName": "Brzęczyszczykiewicz72",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4444,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "72@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kacper",
+      "lastName": "Maciejewski73",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4552,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "73@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Gustaw",
+      "lastName": "Jankowski74",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4462,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "74@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Arkadiusz",
+      "lastName": "Kowalski75",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4414,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "75@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Sonia",
+      "lastName": "Nowak76",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4508,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "76@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Brzęczyszczykiewicz77",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4800,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "77@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Małgorzata",
+      "lastName": "Maciejewski78",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4429,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "78@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kiyomi",
+      "lastName": "Jankowski79",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4927,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "79@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Konrad",
+      "lastName": "Kowalski80",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4502,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "80@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Tomasz",
+      "lastName": "Nowak81",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4744,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "81@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Maciej",
+      "lastName": "Brzęczyszczykiewicz82",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4477,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "82@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Katarzyna",
+      "lastName": "Maciejewski83",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4736,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "83@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Klaudia",
+      "lastName": "Jankowski84",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4849,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "84@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Kowalski85",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4819,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "85@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Sebastian",
+      "lastName": "Nowak86",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4445,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "86@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kamil",
+      "lastName": "Brzęczyszczykiewicz87",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4707,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "87@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jagna",
+      "lastName": "Maciejewski88",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4764,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "88@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Izabela",
+      "lastName": "Jankowski89",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4722,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "89@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Mateusz",
+      "lastName": "Kowalski90",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4452,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "90@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Daria",
+      "lastName": "Nowak91",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4545,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "91@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Agnieszka",
+      "lastName": "Brzęczyszczykiewicz92",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4771,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "92@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Iwona",
+      "lastName": "Maciejewski93",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4706,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "93@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Aleksandra",
+      "lastName": "Jankowski94",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4772,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "94@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Tomasz",
+      "lastName": "Kowalski95",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 3374,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "95@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jolanta",
+      "lastName": "Nowak96",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4756,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "96@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Aleksandra",
+      "lastName": "Brzęczyszczykiewicz97",
+      "studies": [
+        {
+          "name": "Sztuka Nowych Mediów dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4457,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "97@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Paweł",
+      "lastName": "Brzęczyszczykiewicz252",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4412,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "252@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Dariusz",
+      "lastName": "Maciejewski253",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4525,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "253@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kamil",
+      "lastName": "Jankowski254",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4836,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "254@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Łukasz",
+      "lastName": "Kowalski255",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4788,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "255@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Tomasz",
+      "lastName": "Nowak256",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4474,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "256@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Brzęczyszczykiewicz257",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4454,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "257@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Patryk",
+      "lastName": "Maciejewski258",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4443,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "258@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Bhagirath",
+      "lastName": "Jankowski259",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4851,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "259@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Kowalski260",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4579,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "260@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Marek",
+      "lastName": "Nowak261",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4461,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "261@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Przemysław",
+      "lastName": "Brzęczyszczykiewicz262",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4747,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "262@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Marcin",
+      "lastName": "Maciejewski263",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4762,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "263@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Zuzanna",
+      "lastName": "Jankowski264",
+      "studies": [
+        {
+          "name": "Zarządzanie informacją dzienne (kierunek Zarządzanie)",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4413,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "264@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Kowalski265",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4490,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "265@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Wojciech",
+      "lastName": "Nowak266",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4554,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "266@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Enkh-Amgalan",
+      "lastName": "Brzęczyszczykiewicz267",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4340,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "267@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Maciejewski268",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4586,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "268@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Bartosz",
+      "lastName": "Jankowski269",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4798,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "269@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jakub",
+      "lastName": "Kowalski270",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka internetowe",
+          "mode": "Internetowe"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4711,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "270@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Sebastian",
+      "lastName": "Nowak271",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4056,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "271@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Aleksandra",
+      "lastName": "Brzęczyszczykiewicz272",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4549,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "272@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Maciejewski273",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4618,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "273@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Jankowski274",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4530,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "274@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Andrzej",
+      "lastName": "Kowalski275",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4607,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "275@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Wojciech",
+      "lastName": "Nowak276",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4459,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "276@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Monika",
+      "lastName": "Brzęczyszczykiewicz277",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4501,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "277@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jan",
+      "lastName": "Maciejewski278",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4858,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "278@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Paweł",
+      "lastName": "Jankowski279",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4578,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "279@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Bartosz",
+      "lastName": "Kowalski280",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4555,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "280@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Agata",
+      "lastName": "Nowak281",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        },
+        {
+          "name": "Informatyka internetowe",
+          "mode": "Internetowe"
+        }
+      ],
+      "index": 4589,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "281@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Brzęczyszczykiewicz282",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4945,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "282@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Maciejewski283",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie uzupełniające zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4556,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "283@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Grzegorz",
+      "lastName": "Jankowski284",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4504,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "284@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Sebastian",
+      "lastName": "Kowalski285",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4505,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "285@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Filip",
+      "lastName": "Nowak286",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        },
+        {
+          "name": "Informatyka jednolite magisterskie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4105,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "286@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jakub",
+      "lastName": "Brzęczyszczykiewicz287",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4487,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "287@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Artur",
+      "lastName": "Maciejewski288",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4498,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "288@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Jankowski289",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        },
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4471,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "289@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Małgorzata",
+      "lastName": "Kowalski290",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4855,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "290@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Arkadiusz",
+      "lastName": "Nowak291",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4752,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "291@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jakub",
+      "lastName": "Brzęczyszczykiewicz292",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4770,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "292@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adam",
+      "lastName": "Maciejewski293",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4476,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "293@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Tomasz",
+      "lastName": "Jankowski294",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4724,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "294@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Kowalski295",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4754,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "295@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Nowak296",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4769,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "296@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Maciej",
+      "lastName": "Brzęczyszczykiewicz297",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4499,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "297@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jakub",
+      "lastName": "Maciejewski298",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka internetowe",
+          "mode": "Internetowe"
+        }
+      ],
+      "index": 4733,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "298@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kasper",
+      "lastName": "Jankowski299",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4584,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "299@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Krzysztof",
+      "lastName": "Kowalski300",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie uzupełniające zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4514,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "300@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Nowak301",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4448,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "301@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Paweł",
+      "lastName": "Brzęczyszczykiewicz302",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4664,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "302@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Katarzyna",
+      "lastName": "Maciejewski303",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4935,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "303@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Konrad",
+      "lastName": "Jankowski304",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4485,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "304@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Kowalski305",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4456,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "305@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jan",
+      "lastName": "Nowak306",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka internetowe",
+          "mode": "Internetowe"
+        },
+        {
+          "name": "Informatyka jednolite magisterskie",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka jednolite magisterskie po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4107,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "306@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Radosław",
+      "lastName": "Brzęczyszczykiewicz307",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4482,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "307@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kacper",
+      "lastName": "Maciejewski308",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4817,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "308@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Tomasz",
+      "lastName": "Jankowski309",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4765,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "309@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Lech",
+      "lastName": "Kowalski310",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4387,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "310@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Błażej",
+      "lastName": "Nowak311",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie uzupełniające zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4509,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "311@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Karol",
+      "lastName": "Brzęczyszczykiewicz312",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4609,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "312@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Paweł",
+      "lastName": "Maciejewski313",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4481,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "313@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Wojciech",
+      "lastName": "Jankowski314",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4512,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "314@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Maciej",
+      "lastName": "Kowalski315",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka Społeczna",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4782,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "315@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Nowak316",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4492,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "316@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Brzęczyszczykiewicz317",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4531,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "317@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Marcin",
+      "lastName": "Maciejewski318",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4406,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "318@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Krzysztof",
+      "lastName": "Jankowski319",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4394,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "319@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Kowalski320",
+      "studies": [
+        {
+          "name": "Informatyka internetowe magisterskie",
+          "mode": "Internetowe"
+        },
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4627,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "320@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Krzysztof",
+      "lastName": "Nowak321",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4830,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "321@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Brzęczyszczykiewicz322",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4486,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "322@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Mariusz",
+      "lastName": "Maciejewski323",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4447,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "323@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Bartosz",
+      "lastName": "Jankowski324",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4580,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "324@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Kowalski325",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Sztuka Nowych Mediów zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4284,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "325@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Nowak326",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4440,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "326@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Aleksander",
+      "lastName": "Brzęczyszczykiewicz327",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4410,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "327@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Andrzej",
+      "lastName": "Maciejewski328",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4615,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "328@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Paweł",
+      "lastName": "Jankowski329",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4796,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "329@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Paweł",
+      "lastName": "Kowalski330",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4458,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "330@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Nakul",
+      "lastName": "Brzęczyszczykiewicz332",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4942,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "332@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Tomoto",
+      "lastName": "Maciejewski333",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4614,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "333@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Krzysztof",
+      "lastName": "Jankowski334",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4822,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "334@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adam",
+      "lastName": "Kowalski335",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4433,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "335@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jan",
+      "lastName": "Nowak336",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4557,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "336@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Gabriel",
+      "lastName": "Brzęczyszczykiewicz337",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4599,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "337@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Maciejewski338",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka doktoranckie",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4419,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "338@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Jankowski339",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4828,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "339@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Kacper",
+      "lastName": "Kowalski340",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4460,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "340@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Nowak341",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka wieczorowe",
+          "mode": "Wieczorowe"
+        }
+      ],
+      "index": 4058,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "341@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Brzęczyszczykiewicz342",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4524,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "342@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Katarzyna",
+      "lastName": "Maciejewski343",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4588,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "343@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Jankowski344",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4743,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "344@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Karol",
+      "lastName": "Kowalski345",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4721,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "345@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Radosław",
+      "lastName": "Nowak346",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4544,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "346@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Marco",
+      "lastName": "Brzęczyszczykiewicz347",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4426,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "347@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jagoda",
+      "lastName": "Maciejewski348",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4532,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "348@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Tomasz",
+      "lastName": "Jankowski349",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4480,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "349@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Przemysław",
+      "lastName": "Kowalski350",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4441,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "350@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Nowak351",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4523,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "351@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Bartosz",
+      "lastName": "Brzęczyszczykiewicz352",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka internetowe",
+          "mode": "Internetowe"
+        }
+      ],
+      "index": 4766,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "352@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Achut",
+      "lastName": "Maciejewski353",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4941,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "353@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Aleksander",
+      "lastName": "Jankowski354",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4647,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "354@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jan",
+      "lastName": "Kowalski355",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4500,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "355@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Yuriy",
+      "lastName": "Nowak356",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4422,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "356@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Brzęczyszczykiewicz357",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4660,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "357@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Maciejewski358",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4521,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "358@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Jankowski359",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4585,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "359@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Mikołaj",
+      "lastName": "Kowalski360",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka jednolite magisterskie",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka jednolite magisterskie po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 3081,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "360@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Dariusz",
+      "lastName": "Nowak361",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4710,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "361@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Brzęczyszczykiewicz362",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka internetowe",
+          "mode": "Internetowe"
+        }
+      ],
+      "index": 4385,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "362@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Maciejewski363",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4529,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "363@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Jankowski364",
+      "studies": [
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        },
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4522,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "364@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Dawid",
+      "lastName": "Kowalski365",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4827,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "365@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Karol",
+      "lastName": "Nowak366",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4518,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "366@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Brzęczyszczykiewicz367",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        },
+        {
+          "name": "Informatyka internetowe",
+          "mode": "Internetowe"
+        }
+      ],
+      "index": 4384,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "367@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Łukasz",
+      "lastName": "Maciejewski368",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka Społeczna",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4496,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "368@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adam",
+      "lastName": "Jankowski369",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        },
+        {
+          "name": "Informatyka internetowe",
+          "mode": "Internetowe"
+        }
+      ],
+      "index": 4750,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "369@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Arkadiusz",
+      "lastName": "Kowalski370",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4111,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "370@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Jakub",
+      "lastName": "Nowak371",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4484,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "371@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Michał",
+      "lastName": "Brzęczyszczykiewicz372",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4483,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "372@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Tomasz",
+      "lastName": "Maciejewski373",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "MBA dla branży IT",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4751,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "373@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Radosław",
+      "lastName": "Jankowski374",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4528,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "374@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Paweł",
+      "lastName": "Kowalski375",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4533,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "375@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Przemysław",
+      "lastName": "Nowak376",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka zaoczne",
+          "mode": "Zaoczne"
+        }
+      ],
+      "index": 4814,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "376@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adam",
+      "lastName": "Brzęczyszczykiewicz377",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4753,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "377@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Dawid",
+      "lastName": "Maciejewski378",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4520,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "378@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Jankowski379",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4837,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "379@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Sławomir",
+      "lastName": "Kowalski380",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4611,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "380@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Rafał",
+      "lastName": "Nowak381",
+      "studies": [
+        {
+          "name": "Informatyka dzienne",
+          "mode": "Dzienne"
+        },
+        {
+          "name": "Informatyka magisterskie 3 sem",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4616,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "381@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    },
+    {
+      "firstName": "Agnieszka",
+      "lastName": "Brzęczyszczykiewicz382",
+      "studies": [
+        {
+          "name": "Informatyka dzienne po angielsku",
+          "mode": "Dzienne"
+        }
+      ],
+      "index": 4603,
+      "birthdate": "2000-02-12T00:00:00",
+      "email": "382@gmail.com",
+      "motherName": "Alina",
+      "fatherName": "Adam"
+    }
+  ],
+  "activeStudies": [
+    {
+      "name": "Informatyka dzienne",
+      "numberOfStudents": 106
+    },
+    {
+      "name": "Informatyka magisterskie 4 sem",
+      "numberOfStudents": 1
+    },
+    {
+      "name": "Informatyka doktoranckie",
+      "numberOfStudents": 2
+    },
+    {
+      "name": "Sztuka Nowych Mediów dzienne",
+      "numberOfStudents": 65
+    },
+    {
+      "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+      "numberOfStudents": 14
+    },
+    {
+      "name": "Sztuka Nowych Mediów zaoczne",
+      "numberOfStudents": 5
+    },
+    {
+      "name": "Sztuka Nowych Mediów zaoczne 6 sem.",
+      "numberOfStudents": 2
+    },
+    {
+      "name": "Informatyka dzienne po angielsku",
+      "numberOfStudents": 30
+    },
+    {
+      "name": "Informatyka magisterskie 3 sem",
+      "numberOfStudents": 33
+    },
+    {
+      "name": "Informatyka zaoczne",
+      "numberOfStudents": 16
+    },
+    {
+      "name": "Zarządzanie informacją dzienne (kierunek Zarządzanie)",
+      "numberOfStudents": 1
+    },
+    {
+      "name": "Informatyka internetowe",
+      "numberOfStudents": 8
+    },
+    {
+      "name": "Informatyka magisterskie uzupełniające zaoczne",
+      "numberOfStudents": 3
+    },
+    {
+      "name": "Informatyka jednolite magisterskie",
+      "numberOfStudents": 3
+    },
+    {
+      "name": "Informatyka jednolite magisterskie po angielsku",
+      "numberOfStudents": 2
+    },
+    {
+      "name": "Informatyka Społeczna",
+      "numberOfStudents": 2
+    },
+    {
+      "name": "Informatyka internetowe magisterskie",
+      "numberOfStudents": 1
+    },
+    {
+      "name": "Informatyka wieczorowe",
+      "numberOfStudents": 1
+    },
+    {
+      "name": "MBA dla branży IT",
+      "numberOfStudents": 1
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     {
         public string FirstName {  get; set; }
         public string LastName { get; set; }
-        public Studies Studies { get; set; }
+        public HashSet<Studies> Studies { get; set; }
         public int Index { get; set; }
         public DateTime Birthdate { get; set; }
         public string Email { get; set; }

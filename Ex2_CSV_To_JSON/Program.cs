@@ -1,7 +1,7 @@
 ﻿using Ex2_CSV_To_JSON;
+using Ex2_CSV_To_JSON.Comparers;
 using System.Text.Encodings.Web;
 using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace CSV_To_JSON
 {
@@ -9,12 +9,11 @@ namespace CSV_To_JSON
     {
         private static readonly string WorkingDir = Directory.GetCurrentDirectory();
         private static readonly string ProjectDir = Directory.GetParent(WorkingDir).Parent.Parent.FullName;
-        private static readonly int NumOfColumns = 9;
+        private static int _expectedNumOfInfoColumns = 9;
 
         static async Task Main(string[] args)
         {
-
-            await using StreamWriter logStreamWriter = new StreamWriter(Path.Combine(ProjectDir, "log.txt"));
+            await using StreamWriter logStreamWriter = new($@"{ProjectDir}\Logs\log.txt");
             string errorMessage;
 
             if (args.Length != 2)
@@ -41,33 +40,80 @@ namespace CSV_To_JSON
                 throw new FileNotFoundException(errorMessage);
             }
 
-            HashSet<Student> students = new();
+            StudentComparer studentComparer = new();
+            HashSet<Student> students = new(studentComparer);
 
             using StreamReader streamReader = new StreamReader(dataFile);
             string line;
+            int counter = 0;
 
             while ((line = await streamReader.ReadLineAsync()) != null)
             {
+                counter++;
                 string[] studentData = line.Split(',');
 
-                Student student = new()
+                if (studentData.Length != _expectedNumOfInfoColumns || !IsStudentDataValid(studentData))
                 {
-                    FirstName = studentData[0],
-                    LastName = studentData[1],
-                    Studies = new()
-                    {
-                        Name = studentData[2],
-                        Mode = studentData[3]
-                    },
-                    Index = int.Parse(studentData[4]),
-                    Birthdate = DateTime.Parse(studentData[5]),
-                    Email = studentData[6],
-                    MotherName = studentData[7],
-                    FatherName = studentData[8]
-                };
+                    await WriteToFile(logStreamWriter, $"Line {counter}: Student skipped - data missing");
+                    continue;
+                }
 
-                students.Add(student);
+                Student student = CreateStudent(studentData);
+
+                if (!students.Add(student))
+                {
+                    Student foundStudent;
+                    students.TryGetValue(student, out foundStudent);
+
+                    bool studiesResult = false;
+
+                    StudiesComparer studiesComparer = new();
+                    HashSet<Studies> studiesSet = new(foundStudent.Studies, studiesComparer);
+
+                    foreach (Studies studies in student.Studies)
+                    {
+                        if (studiesSet.Contains(studies))
+                        {
+                            await WriteToFile(logStreamWriter, $"Line {counter}: Student skipped - duplicate");
+                            continue;
+                        }
+                        studiesResult = foundStudent.Studies.Add(studies);
+                    }
+                }
             }
+
+            ActiveStudiesComparer activeStudiesComparer = new();
+            HashSet<ActiveStudies> activeStudiesSet = new(activeStudiesComparer);
+
+            foreach (Student student in students)
+            {
+                foreach (Studies studies in student.Studies )
+                {
+                    ActiveStudies activeStudies = CreateActiveStudies(studies.Name);
+
+                    if (!activeStudiesSet.Add(activeStudies))
+                    {
+                        ActiveStudies foundActiveStudies;
+                        activeStudiesSet.TryGetValue(activeStudies, out foundActiveStudies);
+                        foundActiveStudies.NumberOfStudents++;
+                    }
+                }
+            }
+
+            string jsonResult = ParseToJson(students, activeStudiesSet);
+            await using StreamWriter outputStreamWriter = new(outputFile);
+            await WriteToFile(outputStreamWriter, jsonResult);
+        }
+
+        private static string ParseToJson(HashSet<Student> students, HashSet<ActiveStudies> activeStudiesSet)
+        {
+            JsonResult jsonResult = new()
+            {
+                CreatedAt = DateTime.Now,
+                Author = "LunarSigil",
+                Students = students,
+                ActiveStudies = activeStudiesSet
+            };
 
             JsonSerializerOptions jsonSerializerOptions = new()
             {
@@ -76,16 +122,50 @@ namespace CSV_To_JSON
                 WriteIndented = true
             };
 
-            JsonResult jsonResult = new()
+            return JsonSerializer.Serialize(jsonResult, jsonSerializerOptions);
+        }
+
+        private static ActiveStudies CreateActiveStudies(string name)
+        {
+            return new ActiveStudies()
             {
-                CreatedAt = DateTime.Now,
-                Author = "LunarSigil",
-                Students = students
+                Name = name,
+                NumberOfStudents = 1
             };
+        }
 
-            string stringJsonResult = JsonSerializer.Serialize(jsonResult, jsonSerializerOptions);
-            Console.WriteLine(stringJsonResult);
+        private static Student CreateStudent(string[] data)
+        {
+            HashSet<Studies> studies = new();
+            studies.Add(new Studies()
+            {
+                Name = data[2],
+                Mode = data[3]
+            });
 
+            return new Student()
+            {
+                FirstName = data[0],
+                LastName = data[1],
+                Studies = studies,
+                Index = int.Parse(data[4]),
+                Birthdate = DateTime.Parse(data[5]),
+                Email = data[6],
+                MotherName = data[7],
+                FatherName = data[8]
+            };
+        }
+
+        private static bool IsStudentDataValid(string[] data)
+        {
+            foreach (string dataItem in data)
+            {
+                if (string.IsNullOrWhiteSpace(dataItem))
+                {
+                    return false;
+                }
+            }
+            return true;
         }
 
         private static async Task WriteToFile(StreamWriter streamWriter, string text)
